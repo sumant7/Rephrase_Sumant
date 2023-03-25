@@ -20,19 +20,19 @@ const getPDF = async (file) => {
     const val = [
       {
         trans: title,
-        bg: "https://www.shutterstock.com/image-photo/top-view-design-on-blue-260nw-2100071413.jpg",
+        bg: "https://www.shutterstock.com/image-vector/light-blue-vector-smart-blurred-pattern-1574887831",
       },
       {
         trans: desc,
-        bg: "https://c4.wallpaperflare.com/wallpaper/826/524/865/3-316-16-9-aspect-ratio-s-sfw-wallpaper-preview.jpg",
+        bg: "https://www.shutterstock.com/image-vector/dreamy-blue-purple-vibrant-gradient-vector-1173461023",
       },
       {
         trans: skills,
-        bg: "https://images.hdqwalls.com/wallpapers/bthumb/2023-lamborghini-huracan-gt3-evo-3s.jpg",
+        bg: "https://www.shutterstock.com/image-vector/abstract-blurred-magenta-purple-yellow-orange-1295625889",
       },
       {
         trans: work,
-        bg: "https://img.freepik.com/premium-photo/back-school-education-banner-background_8087-1192.jpg",
+        bg: "https://www.shutterstock.com/image-vector/abstract-green-blue-blurred-gradient-background-561604051",
       },
     ];
 
